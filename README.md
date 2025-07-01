@@ -42,7 +42,7 @@ Both modules work independently or in sync, enabling smart, data-driven traffic 
 - Custom-trained YOLOv8 model detects license plates
 - EasyOCR extracts plate text from preprocessed crops
 - Matches plates with vehicles using tracking IDs
-- **85% OCR accuracy** on 720p input at **30 FPS**
+- **65% OCR accuracy** on 720p input at **30 FPS**
 
 ---
 
@@ -61,8 +61,8 @@ Each frame includes:
 | Feature                      | Result           |
 |-----------------------------|------------------|
 | Frame Rate (720p, RTX 3060) | 30 FPS           |
-| Vehicle Detection Accuracy  | ~80%             |
-| OCR Accuracy (EasyOCR)      | ~85%             |
+| Vehicle Detection Accuracy  | ~85%             |
+| OCR Accuracy (EasyOCR)      | ~65%             |
 | Traffic Delay Reduction     | ~38%             |
 | GPU Usage                   | < 65% sustained  |
 
