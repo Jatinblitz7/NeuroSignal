@@ -54,9 +54,6 @@ Each frame includes:
 - 🧠 Optional overlay of vehicle counts per lane  
 - 🪪 Cropped license plate preview above each car
 
-> _(Add images to `./media/` folder and link below)_  
-> ![](./media/annotated_frame_example.png)
-
 ---
 
 ## 📊 Performance Metrics
